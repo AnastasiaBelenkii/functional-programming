@@ -1,3 +1,10 @@
+**Anastasia's Fork**
+
+Hello! I created this fork to save and track my progress as I make my way through the exercises (under src/exercises), which you can view on the solving-exercises branch. To simplify things and avoid the headache of NPM, I use [Deno](https://github.com/denoland/deno) as a runtime for solutions, installation directions at the link. Thanks for stopping by!
+
+*Original Readme*
+
+
 This repo introduces functional programming concepts using TypeScript and possibly libraries in the fp-ts ecosystem.
 
 This fork is an edited translation of [Giulio Canti](https://gcanti.github.io/about.html)'s ["Introduction to Functional Programming (Italian)"](https://github.com/gcanti/functional-programming). The author uses the original as a reference and supporting material for his lectures and workshops on functional programming.
